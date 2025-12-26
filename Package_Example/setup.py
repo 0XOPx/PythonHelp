@@ -1,6 +1,5 @@
 from setuptools import setup, find_packages
 
-# These variables match your requested format
 __version__ = "1.0.0"  # Supports (number) or (number)a(alphanumber)
 __author__ = "Your Name"
 

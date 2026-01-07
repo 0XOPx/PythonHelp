@@ -1,2 +1,2 @@
 # PythonHelp
-Help for python packages, etc.
+Help for Python packages, etc.
